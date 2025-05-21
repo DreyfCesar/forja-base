@@ -2,6 +2,7 @@
     "name": "forja/base",
     "description": "Marco para forjar webs (o no sé...)",
     "type": "library",
+    "license": "MIT",
     "require": {
         "php": "^8.3"
     },
